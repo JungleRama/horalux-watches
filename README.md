@@ -2,9 +2,6 @@
 
 **Horalux** is a luxury watch e-commerce website designed using Figma for prototyping and Webflow for development. The website is created to provide a seamless shopping experience with a focus on high-end aesthetics, product management, and an efficient checkout process. The project includes Webflow CMS functionality to handle product listings, checkout management, and product information.
 
-## Google Drive Link
-https://drive.google.com/file/d/1Vtm57vh1g9xlYUVdZTvp_srDDbbc7uFD/view?usp=drive_link
-
 ## Features
 
 - **E-commerce Integration**: Product management, shopping cart, and checkout functionality built using Webflow's CMS.
@@ -26,6 +23,10 @@ https://drive.google.com/file/d/1Vtm57vh1g9xlYUVdZTvp_srDDbbc7uFD/view?usp=drive
 1. **Clone the Webflow Project**: You can clone the project into your Webflow account if you have access.
 2. **Edit via Webflow Editor**: The Webflow Editor allows you to update product data, text, and images.
 3. **Publish Changes**: Once the changes are made, you can publish the website via Webflow’s publishing feature.
+
+## Download Webflow Exported Project
+
+The full Webflow exported code is available for download [here](https://drive.google.com/file/d/1Vtm57vh1g9xlYUVdZTvp_srDDbbc7uFD/view?usp=drive_link).
 
 ## Customization
 
