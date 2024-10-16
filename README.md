@@ -28,6 +28,10 @@
 
 The full Webflow exported code is available for download [here](https://drive.google.com/file/d/1Vtm57vh1g9xlYUVdZTvp_srDDbbc7uFD/view?usp=drive_link).
 
+## View Webflow Site
+
+The webflow site can be viewed [here](https://horalux.webflow.io/#1)
+
 ## Customization
 
 ### Managing Products
